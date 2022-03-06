@@ -5,7 +5,7 @@
 
 %% How nodes identify they are on the same network.
 -ifndef(NETWORK_NAME).
--define(NETWORK_NAME, "arweave.N.1").
+-define(NETWORK_NAME, "ppweave.N.1").
 -endif.
 
 %% Current release number of the arweave client software.
